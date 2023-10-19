@@ -2419,7 +2419,7 @@ h6 {
   font-size: 150px;
   line-height: 170px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   opacity: 0;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -2522,7 +2522,7 @@ h6 {
   color: #3a3d32;
   font-size: 22px;
   line-height: 60px;
-  font-weight: 700;
+  font-weight: 300;
   opacity: 1;
   margin: 0;
   padding: 0;
@@ -2555,7 +2555,7 @@ h6 {
   color: #3a3d32;
   font-size: 22px;
   line-height: 60px;
-  font-weight: 700;
+  font-weight: 300;
   opacity: 1;
   margin: 0;
   padding: 0;
@@ -2803,7 +2803,7 @@ h6 {
   color: #404a3d;
   font-size: 22px;
   line-height: 60px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   margin-top: -30px;
@@ -2836,7 +2836,7 @@ h6 {
   color: #404a3d;
   font-size: 22px;
   line-height: 60px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   margin-top: -30px;
@@ -3020,7 +3020,7 @@ h6 {
 .service_1_single .content h3 {
   color: var(--thm-black);
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   padding-bottom: 36px;
   margin: 0;
   -webkit-transition: all 500ms ease;
@@ -3288,7 +3288,7 @@ h6 {
 .project-content h3 {
   color: var(--thm-black);
   font-size: 70px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -3473,7 +3473,7 @@ h6 {
 .project_content h3 {
   color: #ffffff;
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -3589,7 +3589,7 @@ h6 {
 .benefits_single h3 {
   color: #ffffff;
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-top: 9px;
   -webkit-transition: all 500ms ease;
@@ -4461,7 +4461,7 @@ h6 {
   font-size: 50px;
   color: var(--thm-black);
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   line-height: 52px;
   margin-bottom: 53px;
 }
@@ -4556,7 +4556,7 @@ h6 {
   font-size: 30px;
   margin: 0;
   margin-top: 21px;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .service_2_top h3 a {
@@ -4615,7 +4615,7 @@ h6 {
 .cta_two_content h2 {
   color: var(--thm-black);
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   line-height: 43px;
 }
@@ -4715,7 +4715,7 @@ h6 {
   color: var(--thm-black);
   font-size: 50px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 /*--------------------------------------------------------------
@@ -4761,7 +4761,7 @@ h6 {
 .get_quote_one_form_inner h3 {
   color: var(--thm-black);
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 35px;
 }
@@ -4815,7 +4815,7 @@ h6 {
 .get_quote_right h3 {
   color: var(--thm-black);
   font-size: 44px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -5159,7 +5159,7 @@ h6 {
 .service_three_content h2 {
   font-size: 30px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   padding-bottom: 21px;
 }
 
@@ -5238,7 +5238,7 @@ h6 {
 .project_three_content h2 {
   color: #ffffff;
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -5257,7 +5257,7 @@ h6 {
 .project_three_hover_box h2 {
   color: #ffffff;
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 12px;
 }
@@ -5341,7 +5341,7 @@ h6 {
 
 .work_one_count_box h5 {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -5354,7 +5354,7 @@ h6 {
   color: var(--thm-black);
   font-size: 30px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   padding-top: 31px;
   padding-bottom: 29px;
 }
@@ -5392,7 +5392,7 @@ h6 {
 .quote_one_content h2 {
   font-size: 70px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 33px;
   text-transform: uppercase;
@@ -5465,7 +5465,7 @@ h6 {
 .why_choose_list li .choose_count h2 {
   font-size: 24px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   line-height: 48px;
 }
@@ -5582,7 +5582,7 @@ h6 {
 
 .team_one_deatils h2 {
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -5679,7 +5679,7 @@ h6 {
 .what_makes_content h2 {
   font-size: 100px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   line-height: 108px;
   margin-top: 5px;
@@ -5914,7 +5914,7 @@ h6 {
 .cta_three_text h2 {
   font-size: 50px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -5977,7 +5977,7 @@ h6 {
 .details_one_content h2 {
   color: #ffffff;
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   position: relative;
   transition: 500ms;
@@ -5996,7 +5996,7 @@ h6 {
 
 .details_one_count_box h3 {
   font-size: 100px;
-  font-weight: 700;
+  font-weight: 300;
   color: #ffffff;
   margin: 0;
 }
@@ -6127,7 +6127,7 @@ h6 {
 .eco_friendly_title h2 {
   color: #ffffff;
   font-size: 80px;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin: 0;
   line-height: 77px;
@@ -6219,7 +6219,7 @@ h6 {
 
 .service_four_deatils h3 {
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding-top: 31px;
   padding-bottom: 13px;
@@ -6320,7 +6320,7 @@ h6 {
 .phone_number a {
   color: var(--thm-base);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   margin-left: 10px;
   font-family: var(--heading-font);
 }
@@ -6517,7 +6517,7 @@ h6 {
 .testimonials-three__info h3 {
   color: var(--thm-black);
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-top: 14px;
   text-transform: uppercase;
@@ -6686,7 +6686,7 @@ h6 {
 .funfact_one_single h3 {
   color: #ffffff;
   font-size: 70px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-top: 17px;
 }
@@ -6880,7 +6880,7 @@ h6 {
   font-size: 80px;
   color: #ffffff;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .trusted_one_text span {
@@ -6930,7 +6930,7 @@ h6 {
   font-size: 70px;
   color: var(--thm-black);
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 17px;
 }
 
@@ -6981,7 +6981,7 @@ h6 {
 .left_box h2 {
   font-size: 60px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -7017,7 +7017,7 @@ h6 {
 .right_box h2 {
   font-size: 60px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -7097,7 +7097,7 @@ h6 {
   font-size: 26px;
   color: var(--thm-black);
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 4px;
 }
 
@@ -7231,7 +7231,7 @@ h6 {
 .page-header h2 {
   color: #ffffff;
   font-size: 70px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   padding-bottom: 56px;
@@ -7324,7 +7324,7 @@ h6 {
 .need_help_box h2 {
   font-size: 36px;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding-bottom: 35px;
 }
@@ -7338,7 +7338,7 @@ h6 {
 .need_help_box h3 {
   color: var(--thm-base);
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding-top: 33px;
 }
@@ -7402,7 +7402,7 @@ h6 {
 .harvest_innovations h2 {
   font-size: 70px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 33px;
   text-transform: uppercase;
@@ -7424,7 +7424,7 @@ h6 {
 .agriculture_solutions h3 {
   font-size: 40px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 44px;
   text-transform: uppercase;
@@ -7495,7 +7495,7 @@ h6 {
 .harvest_innovations_detail h2 {
   font-size: 70px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 33px;
   text-transform: uppercase;
@@ -7516,7 +7516,7 @@ h6 {
   font-size: 70px;
   color: var(--thm-black);
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 65px;
 }
@@ -7571,7 +7571,7 @@ h6 {
   font-size: 26px;
   color: var(--thm-black);
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 23px;
 }
@@ -7850,7 +7850,7 @@ h6 {
   margin: 0;
   color: var(--thm-black);
   font-size: 32px;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
 }
 
@@ -7868,7 +7868,7 @@ h6 {
   margin: 0;
   color: var(--thm-black);
   font-size: 60px;
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 48px;
   margin-top: -10px;
   text-transform: uppercase;
@@ -7891,7 +7891,7 @@ h6 {
   margin: 0;
   font-size: 26px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 30px;
 }
@@ -7960,7 +7960,7 @@ h6 {
   margin: 0;
   color: var(--thm-black);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 23px;
 }
@@ -8206,7 +8206,7 @@ h6 {
 .location_single h2 {
   font-size: 30px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   margin-bottom: 16px;
   text-transform: uppercase;
@@ -8395,7 +8395,7 @@ h6 {
 .single-sidebar .title h3 {
   color: var(--thm-black);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
 }
@@ -8479,7 +8479,7 @@ h6 {
 .price_sidebar h3 {
   font-size: 26px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -8834,7 +8834,7 @@ h6 {
 .all_products_single h4 {
   font-size: 30px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   line-height: 30px;
@@ -8892,7 +8892,7 @@ h6 {
 .product_detail_content h2 {
   font-size: 50px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
 }
@@ -9096,7 +9096,7 @@ h6 {
 .share_box_title h2 {
   color: var(--thm-black);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
 }
@@ -9168,7 +9168,7 @@ h6 {
   padding: 23px 80px;
   color: #8a8d91;
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   text-transform: uppercase;
@@ -9277,7 +9277,7 @@ h6 {
   color: var(--thm-black);
   font-size: 40px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   margin-bottom: 52px;
   text-transform: uppercase;
 }
@@ -9304,7 +9304,7 @@ h6 {
 .product_reviews_content h3 {
   font-size: 26px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   margin-bottom: 17px;
@@ -9331,7 +9331,7 @@ h6 {
 .add_review_title {
   font-size: 40px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   margin-bottom: 24px;
@@ -9481,7 +9481,7 @@ h6 {
 .cart_table_head tr th {
   color: var(--thm-black);
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   min-width: 160px;
   padding: 34px 0px;
@@ -9515,7 +9515,7 @@ h6 {
 .cart_table tbody tr .colum_box .title .prod-title {
   color: var(--thm-black);
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
 }
@@ -9594,7 +9594,7 @@ h6 {
 .total_box li span {
   font-size: 26px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin-right: 65px;
   text-transform: uppercase;
   font-family: var(--heading-font);
@@ -9632,7 +9632,7 @@ h6 {
   color: #ffffff;
   text-transform: uppercase;
   line-height: 80px;
-  font-weight: 700;
+  font-weight: 300;
   transform: rotate(-90deg);
   display: inline-block;
   font-family: var(--heading-font);
@@ -9755,7 +9755,7 @@ h6 {
   color: var(--thm-primary);
   font-size: 26px;
   line-height: 34px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 27px 0 4px;
 }
 
@@ -9846,7 +9846,7 @@ h6 {
   color: var(--thm-black);
   line-height: 60px;
   margin: 0;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   margin-top: 3px;
 }
@@ -9919,7 +9919,7 @@ h6 {
 .your_order h2 {
   color: var(--thm-black);
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   margin-bottom: 50px;
@@ -9944,7 +9944,7 @@ h6 {
 .order_table_head th {
   font-size: 26px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   padding: 21px 0 22px;
   text-transform: uppercase;
@@ -9982,7 +9982,7 @@ h6 {
 .direct .checkbox span {
   color: var(--thm-black);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   font-family: var(--heading-font);
   margin-left: 10px;
   text-transform: uppercase;
@@ -10001,7 +10001,7 @@ h6 {
 .paypal_payment .checkbox span {
   color: var(--thm-black);
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 300;
   font-family: var(--heading-font);
   margin-left: 10px;
   text-transform: uppercase;
@@ -10086,7 +10086,7 @@ h6 {
   color: var(--thm-base);
   font-size: 50px;
   line-height: 60px;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
 }
 
@@ -10182,7 +10182,7 @@ h6 {
 .company_solutions_single h2 {
   font-size: 36px;
   color: var(--thm-black);
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
   text-transform: uppercase;
   line-height: 44px;
@@ -10574,7 +10574,7 @@ h6 {
   color: var(--thm-black);
   font-size: 110px;
   line-height: 1em;
-  font-weight: 700;
+  font-weight: 300;
   text-transform: uppercase;
   opacity: 0;
   -webkit-transform: translateY(80px);
